@@ -7,3 +7,4 @@
 - - https://beta.unity3d.com/download/4504a57e80f0/download.html#6000.2.0b3
 - - https://beta.unity3d.com/download/c1cd6601d4c1/download.html#6000.2.0b5
 - - https://beta.unity3d.com/download/439913089442/download.html#6000.2.0b6
+- - https://beta.unity3d.com/download/b9ec4d9f8687/download.html#6000.3.0b3
